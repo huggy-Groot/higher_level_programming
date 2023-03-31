@@ -1,1 +1,1 @@
-Python, Javascript, HTML
+Python, Javascript, HTML.
